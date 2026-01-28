@@ -31,7 +31,7 @@ function formatSlackMessage(data: ContactForm) {
         type: "header",
         text: {
           type: "plain_text",
-          text: "📩 New Contact Form",
+          text: "💬 New Contact Form Submission",
           emoji: true,
         },
       },
